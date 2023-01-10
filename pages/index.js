@@ -78,7 +78,7 @@ export default function home() {
     {
       name: "CGI",
       color: "red",
-      period: "2018 - 2022",
+      period: "2018 - 2020",
       link: "https://www.cgi.com/france/fr-fr",
     },
     {
