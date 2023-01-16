@@ -98,7 +98,7 @@ export default function home() {
       <div className='w-full h-full p-8 flex flex-col gap-4 pr-20'>
         <h1 className='text-5xl text-sky-600 font-semibold'> Portfolio </h1>
 
-        <h2 className='text-3xl text-sky-600 font-semibold'> Mes projets </h2>
+        <h2 className='text-3xl text-sky-600 font-semibold'> Mes expériences </h2>
 
         <ul>
           {experiences.map((experience, index) => (
