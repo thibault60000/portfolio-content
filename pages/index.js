@@ -29,8 +29,13 @@ export default function home() {
   ];
 
   const experiences = [
+  {
+      name: "Jeu Physics 3D",
+      link: "https://r3f-car-omega.vercel.app/",
+      description: "Jeu vidéo réalisté avec React Three Fiber",
+    },
     {
-      name: "Jeu 3D",
+      name: "Jeu reflexes 3D",
       link: "https://r3f-first-game.vercel.app/",
       description: "Jeu vidéo réalisté avec React Three Fiber",
     },
