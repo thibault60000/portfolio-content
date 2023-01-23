@@ -35,7 +35,7 @@ export default function home() {
       description: "Jeu vidéo réalisté avec React Three Fiber",
     },
     {
-      name: "Jeu : :reflexes 3D",
+      name: "Jeu : reflexes 3D",
       link: "https://r3f-first-game.vercel.app/",
       description: "Jeu vidéo réalisté avec React Three Fiber",
     },
