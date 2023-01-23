@@ -30,12 +30,12 @@ export default function home() {
 
   const experiences = [
   {
-      name: "Jeu Physics 3D",
+      name: "Jeu : Physics 3D",
       link: "https://r3f-car-omega.vercel.app/",
       description: "Jeu vidéo réalisté avec React Three Fiber",
     },
     {
-      name: "Jeu reflexes 3D",
+      name: "Jeu : :reflexes 3D",
       link: "https://r3f-first-game.vercel.app/",
       description: "Jeu vidéo réalisté avec React Three Fiber",
     },
@@ -56,7 +56,7 @@ export default function home() {
         "Scène portail réalisé avec Blender et ThreeJS vanilla en Low Poly",
     },
     {
-      name: "Homepilot - Text 3D",
+      name: "Text en 3D",
       link: "https://piou-3d.vercel.app/",
       description:
         "Utilisation de Drei dans R3F - Logo et Nom entreprise actuelle",
